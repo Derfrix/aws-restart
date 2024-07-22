@@ -6,7 +6,7 @@
  ----------------------------------------------------------------- 
 
 
-#🌌 Bienvenido al Entorno de Cloud9 de Brian Varas! 🌌
+## 🌌 Bienvenido al Entorno de Cloud9 de Brian Varas! 🌌
 
 ¡Hola! Soy Brian Varas y este es mi espacio en AWS Restart por Generations. 
 Aquí encontrarás una serie de ejercicios básicos de Python para ayudarte a aprender y practicar.
@@ -47,7 +47,10 @@ git clone https://github.com/Derfrix/aws-restart.git
 
 ¡Que la fuerza esté contigo mientras aprendes Python! 🚀
 
-           __
+##
+
+ ----------------------------------------------------------------- 
+.          __
 .-.__      \\ .-.  ___  __
 |_|  '--.-.-(   \\//;;\\_\\.-._______.-.
 (-)___     \\ \\ .-\\ \\;;\\(   \\       \\ \\
@@ -66,3 +69,4 @@ git clone https://github.com/Derfrix/aws-restart.git
                              \\ \\  \\
                               \\ \\  \\
                                \\_\\_|
+ ----------------------------------------------------------------- 
